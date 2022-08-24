@@ -1,6 +1,8 @@
 /*
 邀请赢大礼
 @Leaf
+1 1 1 1 1 zjd_bf.js
+*/
 
 监控变量：
 jd_invite_activity_url -- 监控变量，活动地址
